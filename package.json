@@ -1,0 +1,18 @@
+{
+  "name": "dash-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.4.1",
+    "dash-button": "^2.0.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scan": "dash-button scan"
+  },
+  "author": "",
+  "license": "ISC"
+}
